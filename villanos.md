@@ -2,7 +2,7 @@
 
 1. Lex Luthor
 2. Joker
-3. Flash Reverso
+3. Jokker otra vez
 4. Doomsday
 
 # Notas:
