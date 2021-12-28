@@ -6,5 +6,5 @@
 4. Doomsday
 5. Sandman
 6. Volverine
-
+7. Loki
 # Notas:
