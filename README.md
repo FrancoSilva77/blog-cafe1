@@ -1,6 +1,4 @@
 # blog-cafe1
-Repositorio sobre un blog sobre una cafeteria
+Repositorio sobre un blog sobre
 
-
-
-## Una prueba mas para hacer esto
+## Estos cambios son nuevos
